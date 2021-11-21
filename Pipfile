@@ -13,6 +13,7 @@ matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 plotly = "*"
+pyarrow = "*"
 
 [dev-packages]
 
