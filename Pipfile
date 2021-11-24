@@ -18,6 +18,8 @@ sentence-transformers = "*"
 ipywidgets = "*"
 spacy = "*"
 nltk = "*"
+tslearn = "*"
+h5py = "*"
 
 [dev-packages]
 

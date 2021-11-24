@@ -1,3 +1,4 @@
 data/
 config/.secrets.yml
 /.ipynb_checkpoints/
+/model/
